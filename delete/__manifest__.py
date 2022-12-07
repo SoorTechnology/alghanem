@@ -4,7 +4,7 @@
                   ],
       'application': True,
       'data': [
-            'views/stock_move_line.py.xml',
+            'views/stock_move_line.xml',
             ]
 }
 
